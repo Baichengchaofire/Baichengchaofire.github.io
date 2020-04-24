@@ -11,49 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Intelligent Sensing and Autonomous Planning, Harbin Institute of Technology, 2019
+  * Supervisor: Prof. Jifeng Guo, Prof. Linli Guo
+* B.S. in Space Robotics, Harbin Institute of Technology, 2013
+  * Supervisor: Prof. Jifeng Guo
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoc Associate, 2020-
+  * Delft University of Technology
+  * Multi-robot Autonomous Learning in Extreme Environment
+  * Supervisor: Prof. Wei Pan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Founder, 2019-
+  * GaussTac Co., Ltd.
+  * Terrain Perception, Safe Planning
   
-Skills
+Award
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* XXXX, China, 2019
