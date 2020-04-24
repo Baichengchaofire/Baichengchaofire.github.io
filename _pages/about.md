@@ -14,4 +14,4 @@ My research goal is to establish a autonomous learning framework for multi-robot
 
 Recent News
 ======
-# April 24,2020, I am serving as an Guest Editor for Sensors.
+* April 24,2020, I am serving as an Guest Editor for Sensors.
