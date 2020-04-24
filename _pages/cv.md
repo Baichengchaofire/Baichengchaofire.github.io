@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Postdoc Associate, 2020-
+* Postdoctoral Associate, 2020-
   * Delft University of Technology
   * Multi-robot Autonomous Learning in Extreme Environment
   * Supervisor: Prof. Wei Pan
