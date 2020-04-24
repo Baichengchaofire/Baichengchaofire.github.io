@@ -15,4 +15,4 @@ My research goal is to establish a autonomous learning framework for multi-robot
 Recent News
 ======
 * April 24,2020, I am serving as an Guest Editor for [Sensors](https://www.mdpi.com/journal/sensors). 
-  [Special Issue: "Advanced Perception-Planning Fusion Technology in Robotics"](https://www.mdpi.com/journal/sensors/special_issues/PPFT)
+  Special Issue: ["Advanced Perception-Planning Fusion Technology in Robotics"](https://www.mdpi.com/journal/sensors/special_issues/PPFT)
