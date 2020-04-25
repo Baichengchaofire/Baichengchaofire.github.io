@@ -17,4 +17,3 @@ Recent News
 * April 24,2020, I am serving as a Guest Editor for [Sensors](https://www.mdpi.com/journal/sensors). 
   Special Issue: ["Advanced Perception-Planning Fusion Technology in Robotics"](https://www.mdpi.com/journal/sensors/special_issues/PPFT)
 * March 25,2020, I will serve as publication chair for [ICUS 2020](http://icus.scholarbee.cn/en/web/page?mid=558&pid=Home-En).
-* 
