@@ -23,7 +23,7 @@ Work experience
   * Multi-robot Autonomous Learning in Extreme Environment
   * Supervisor: Prof. Wei Pan
 
-* Founder, 2019-
+* Founder, 2019
   * GaussTac Co., Ltd.
   * Terrain Perception, Safe Planning
   
