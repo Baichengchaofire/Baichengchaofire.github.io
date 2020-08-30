@@ -14,7 +14,7 @@ My research goal is to establish an autonomous learning framework for a multi-ro
 
 Recent News
 ======
-* July 21, 2020, Our paper ["Optimal Guidance for Planetary Landing in Hazardous Terrains"](https://ieeexplore.ieee.org/document/8911470) is published by [IEEE Transactions on Aerospace and Electronic Systems](TAES)(https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7). 
+* July 21, 2020, Our paper ["Optimal Guidance for Planetary Landing in Hazardous Terrains"](https://ieeexplore.ieee.org/document/8911470) is published by [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)(TAES). 
 * April 24, 2020, I am serving as a Guest Editor for [Sensors](https://www.mdpi.com/journal/sensors). 
   Special Issue: ["Advanced Perception-Planning Fusion Technology in Robotics"](https://www.mdpi.com/journal/sensors/special_issues/PPFT)
 * March 25, 2020, I will serve as a publication chair for [ICUS 2020](http://icus.scholarbee.cn/en/web/page?mid=558&pid=Home-En).
