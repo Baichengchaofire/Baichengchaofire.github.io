@@ -29,6 +29,8 @@ Work experience
   
 Selected Awards
 ======
+* Outstanding Youth Editor, Unmanned Systems Technoogy, China, 2020
+* Best Paper Award, IEEE International Conference on Unmanned Systems, IEEE, 2019
 * Outstanding graduates, Harbin Institute of Technology, China, 2019
 * Postgraduate "Top Ten Talents", Harbin Institute of Technology, China, 2018
 * First Prize, International Youth Drone Competition, 2018
@@ -47,4 +49,4 @@ Academic Activities
 * Guest Editor of Sensors
 * Publication Chair of 2020 IEEE International Conference on Unmanned Systems.
 * IEEE member, AAAS member, AIAA member
-* Reviewer: TAES, JGCD, Automatica, ICRA, IROS, etc.
+* Reviewer: TAES, JGCD, Automatica, ICRA, IROS, CoRL etc.
