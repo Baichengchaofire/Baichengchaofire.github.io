@@ -14,6 +14,11 @@ My research goal is to establish an autonomous learning framework for a multi-ro
 
 Recent News
 ======
+* November 29, 2020, Our paper "Flocking Control of UAV Swarms with Deep Reinforcement Learning Approach" won the [2020 IEEE ICUS](http://icus.scholarbee.cn/Page) [Best Paper Award](http://icus.scholarbee.cn/en/web/article/menudetail?mid=676).
+* November 28, 2020, [IEEE ICUS 2020](http://icus.scholarbee.cn/Page) is successfully held online. Thanks to [Prof. Javier Alonso-Mora](http://www.alonsomora.com/), [Prof. Amanda Prorok](https://www.proroklab.org/), [Prof. Abhinav Valada](https://rl.uni-freiburg.de/people/valada), [Prof. Hyo-sang Shin](https://www.cranfield.ac.uk/people/professor-hyosang-shin-712415) and many other experts for their keynote reports.
+* October 15, 2020, Our latest two papers on robot safety learning with stablity guarantee have been submitted to [IEEE ICRA 2021](http://2011.ieee-icra.org/).
+* September 5, 2020, Our two papers on multi-robot robust learning have been submitted to [Pattern Recognition (PR)] and [IEEE Transactions Intelligent Transportation Systems (TITS)].
+* July 29, 2020, I am awarded as the Outstanding Young Editorial Board Member for [Unmanned System Technology](https://umst.cbpt.cnki.net/WKD/WebPublication/index.aspx?mid=umst).
 * July 21, 2020, Our paper ["Optimal Guidance for Planetary Landing in Hazardous Terrains"](https://ieeexplore.ieee.org/document/8911470) is published by [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)(TAES). 
 * April 24, 2020, I am serving as a Guest Editor for [Sensors](https://www.mdpi.com/journal/sensors). 
   Special Issue: ["Advanced Perception-Planning Fusion Technology in Robotics"](https://www.mdpi.com/journal/sensors/special_issues/PPFT)
