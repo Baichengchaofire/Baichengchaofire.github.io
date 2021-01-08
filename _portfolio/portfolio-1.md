@@ -1,6 +1,6 @@
 ---
 title: "Terrain Perception"
-excerpt: "Update soon!<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/bcc01.jpg'><br/><img src='/images/bcc02.jpg'>"
 collection: portfolio
 ---
 
