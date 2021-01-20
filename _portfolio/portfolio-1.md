@@ -1,5 +1,5 @@
 ---
 title: "Visual/Vibration Fusion based Terrain Perception"
-excerpt: "今日哈工大哈工大<img src='/images/Project01.jpg'>"
+excerpt: "At present, the navigation mode based on visual/Inertia has been successfully applied in the actual planetary rover mission, and played an important role in the patrol process. On the one hand, it obtains a large amount of surface environmental data, on the other hand, it ensures the effective detection and identification of obstacles on the patrol path. But it still reveals some problems: First, based on the existing sensing load, the material and mechanical characteristics of the terrain environment cannot be effectively perceived, so that the patrol does not have the ability to recognize the classification of terrain with different materials. Second, existing sensing loads are susceptible to environmental changes, which make the patrol not capable of carrying out complex tasks for a long time abroad. Therefore, this project proposes a new idea of the external environment perception based on the visual/vibration fusion. It is intended to use the fusion of the two sensing modes to achieve terrain reconstruction, classification perception and semantic mapping of the detection environment, thereby overcoming the harm caused by the above problems.<img src='/images/Project01.jpg'>"
 collection: portfolio
 ---
