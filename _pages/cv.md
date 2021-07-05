@@ -18,7 +18,12 @@ Education
 
 Work experience
 ======
-* Postdoctoral Associate, 2020-
+* Senior Researcher, 2021-
+  * Hong Kong University of Science and Technology (HKUST)
+  * Multi-robot Formation Control
+  * Supervisor: Prof. C. Patrick Yue (IEEE Fellow, OSA Fellow)
+
+* Postdoctoral Associate, 2020-2021
   * Delft University of Technology
   * Multi-robot Autonomous Learning in Extreme Environment
   * Supervisor: Prof. Wei Pan
