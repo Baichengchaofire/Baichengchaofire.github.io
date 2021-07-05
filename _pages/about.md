@@ -14,7 +14,7 @@ My research goal is to establish an autonomous learning framework for a multi-ro
 
 Recent News
 ======
-* JUly 04, 2021, Our paper "Learning-Based Resilience Guarantee for Multi-UAV Collaborative QoS Management" accepted to [Pattern Recognition(JCR Q1, IF=7.74)](https://www.journals.elsevier.com/pattern-recognition).
+* July 04, 2021, Our paper "Learning-Based Resilience Guarantee for Multi-UAV Collaborative QoS Management" accepted to [Pattern Recognition(JCR Q1, IF=7.74)](https://www.journals.elsevier.com/pattern-recognition).
 * November 29, 2020, Our paper "Flocking Control of UAV Swarms with Deep Reinforcement Learning Approach" won the [2020 IEEE ICUS](http://icus.scholarbee.cn/Page) [Best Paper Award](http://icus.scholarbee.cn/en/web/article/menudetail?mid=676).
 * November 28, 2020, [IEEE ICUS 2020](http://icus.scholarbee.cn/Page) is successfully held online. Thanks to [Prof. Javier Alonso-Mora](http://www.alonsomora.com/), [Prof. Amanda Prorok](https://www.proroklab.org/), [Prof. Abhinav Valada](https://rl.uni-freiburg.de/people/valada), [Prof. Hyo-sang Shin](https://www.cranfield.ac.uk/people/professor-hyosang-shin-712415) and many other experts for their keynote reports.
 * November 27, 2020, I gave a report entitled "Space Robots Safe Learning with Resilience Guarantee" in the seminar of the [Department of Aeronautics and Astronautics](https://www.southampton.ac.uk/engineering/what_we_do/aeronautics_and_astronautics.page), [University of Southampton](https://www.southampton.ac.uk/).
