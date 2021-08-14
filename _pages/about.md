@@ -14,6 +14,7 @@ My research goal is to establish an autonomous learning framework for a multi-ro
 
 Recent News
 ======
+* August 14, 2021, Our paper "Learning-based Multi-robot Formation Control with Obstacle Avoidance" accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6979). (JCR Q1, IF=6.492)
 * July 04, 2021, Our paper "Learning-Based Resilience Guarantee for Multi-UAV Collaborative QoS Management" accepted to [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition). (JCR Q1, IF=7.74)
 * November 29, 2020, Our paper "Flocking Control of UAV Swarms with Deep Reinforcement Learning Approach" won the [2020 IEEE ICUS](http://icus.scholarbee.cn/Page) [Best Paper Award](http://icus.scholarbee.cn/en/web/article/menudetail?mid=676).
 * November 28, 2020, [IEEE ICUS 2020](http://icus.scholarbee.cn/Page) is successfully held online. Thanks to [Prof. Javier Alonso-Mora](http://www.alonsomora.com/), [Prof. Amanda Prorok](https://www.proroklab.org/), [Prof. Abhinav Valada](https://rl.uni-freiburg.de/people/valada), [Prof. Hyo-sang Shin](https://www.cranfield.ac.uk/people/professor-hyosang-shin-712415) and many other experts for their keynote reports.
