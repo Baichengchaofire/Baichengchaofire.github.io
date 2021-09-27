@@ -14,7 +14,7 @@ My research goal is to establish an autonomous learning framework for a multi-ro
 
 Recent News
 ======
-* September 27, 2021, Our paper "Optimal Path Planning of Planetary Rovers with Safety Considerable" won the BEST PAPER AWARD at [2021 International Conference on Autonomous Unmanned Systems](http://icaus2021.scholarbee.cn/Page). Well done, Haonan!
+* September 27, 2021, Our paper "Optimal Path Planning of Planetary Rovers with Safety Considerable" won [the Best Paper Award](http://icaus2021.scholarbee.cn/en/web/article/menudetail?mid=764) at [2021 International Conference on Autonomous Unmanned Systems](http://icaus2021.scholarbee.cn/Page). Well done, Haonan!
 * August 14, 2021, Our paper "Learning-based Multi-robot Formation Control with Obstacle Avoidance" accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6979). (JCR Q1, IF=6.492)
 * July 04, 2021, Our paper "Learning-Based Resilience Guarantee for Multi-UAV Collaborative QoS Management" accepted to [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition). (JCR Q1, IF=7.74)
 * November 29, 2020, Our paper "Flocking Control of UAV Swarms with Deep Reinforcement Learning Approach" won the [2020 IEEE ICUS](http://icus.scholarbee.cn/Page) [Best Paper Award](http://icus.scholarbee.cn/en/web/article/menudetail?mid=676).
