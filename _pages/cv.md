@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* Senior Researcher, 2021-
+* Associate Professor, 2021.10-
+  * Harbin Institute of Technology (HIT)
+  * Intelligent Unmanned Systems
+    
+* Senior Researcher, 2021-2021.09
   * Hong Kong University of Science and Technology (HKUST)
   * Multi-robot Formation Control
   * Supervisor: Prof. C. Patrick Yue (IEEE Fellow, OSA Fellow)
@@ -34,6 +38,10 @@ Work experience
   
 Selected Awards
 ======
+* Young Talents Support Project of China Association for Science and Technology, China, 2022
+* Best View Award of the 2nd “Sijiqing” Youth Forum, China, 2021
+* Best Organizer Award at the IEEE Internaitonal Conference on Unmanned Systems, China, 2021
+* Best Paper Award, International Conference on Autonomous Unmanned Systems, China, 2021
 * Outstanding Youth Editor, Unmanned Systems Technoogy, China, 2020
 * Best Paper Award, IEEE International Conference on Unmanned Systems, IEEE, 2019
 * Outstanding graduates, Harbin Institute of Technology, China, 2019
