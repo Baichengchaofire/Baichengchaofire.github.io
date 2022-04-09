@@ -112,10 +112,10 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
-  xing             : "Wechat:bccfire_0818"
+  xing             : 
   youtube          :
   wikipedia        :
-
+  wechat           : "Wechat:bccfire_0818"
 
 # Reading Files
 include:
