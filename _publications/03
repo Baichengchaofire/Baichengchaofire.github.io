@@ -1,13 +1,13 @@
 ---
-title: "Deep Multi-Layer Perception Based Terrain Classification for Planetary Exploration Rovers"
+title: "Learning-based resilience guarantee for multi-UAV collaborative QoS management"
 collection: publications
-date: 2019-07-13
-venue: 'Sensors'
-paperurl: 'https://www.mdpi.com/1424-8220/19/14/3102'
-citation: 'Chengchao Bai, Jifeng Guo, Linli Guo, Junlin Song. (2019). &quot;Deep Multi-Layer Perception Based Terrain Classification for Planetary Exploration Rovers.&quot; <i>Sensors</i>. 19(3102).'
+date: 2021-09-01
+venue: 'Pattern Recognition'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0031320321003538'
+citation: 'Chengchao Bai, Peng Yan, Xiaoqiang Yu, Jifeng Guo. (2021). &quot;Learning-based resilience guarantee for multi-UAV collaborative QoS management.&quot; <i>Pattern Recognition</i>. 122(108166).'
 ---
-Chengchao Bai, Jifeng Guo, Linli Guo, Junlin Song.
+Chengchao Bai, Peng Yan, Xiaoqiang Yu, Jifeng Guo.
 
-[Download paper here](https://www.mdpi.com/1424-8220/19/14/3102)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0031320321003538)
 
-Recommended citation: Chengchao Bai, Jifeng Guo, Hongxing Zheng. (2019). "Deep Multi-Layer Perception Based Terrain Classification for Planetary Exploration Rovers." <i>Sensors</i>. 19(3102). doi: 10.3390/s19143102
+Recommended citation: Chengchao Bai, Peng Yan, Xiaoqiang Yu, Jifeng Guo. (2022). "Learning-based resilience guarantee for multi-UAV collaborative QoS management." <i>Pattern Recognition</i>. 122(108166). doi: 10.1016/j.patcog.2021.108166
