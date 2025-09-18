@@ -18,7 +18,12 @@ Education
 
 Work experience
 ======
-* Associate Professor, 2021.10-
+* Professor, 2024.01-
+  * Harbin Institute of Technology (HIT)
+  * Swarm Intelligence
+  * Supervisor: Prof. Jie Chen (中国工程院院士, CAE Member)；Prof. Aiguo Fei (中国工程院院士, CAE Member)
+
+* Associate Professor, 2021.10-2023.12
   * Harbin Institute of Technology (HIT)
   * Intelligent Unmanned Systems
     
@@ -38,6 +43,13 @@ Work experience
   
 Selected Awards
 ======
+* First Prize for Technical Invention of the Chinese Society of Command and Control.
+* Selected as a National High-level Young Talent (Organization Department of the CPC Central Committee).
+* First Prize for Scientific and Technological Progress in Heilongjiang Province.
+* Youth Science and Technology Award of Chinese Command and Control Society.
+* Second Prize of Invention and Innovation Award of China Invention Association.
+* Selected as a high-level talent in Heilongjiang Province.
+* Excellent Youth Project of Heilongjiang Provincial Natural Science Foundation (Provincial Excellent Youth).
 * Young Talents Support Project of China Association for Science and Technology, China, 2022
 * Best View Award of the 2nd “Sijiqing” Youth Forum, China, 2021
 * Best Organizer Award at the IEEE Internaitonal Conference on Unmanned Systems, China, 2021
