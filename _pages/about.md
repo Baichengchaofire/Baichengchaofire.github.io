@@ -14,6 +14,13 @@ My research goal is to establish an autonomous learning framework for a multi-ro
 
 Recent News
 ======
+* September 26, 2025, First Prize for Technical Invention of the Chinese Society of Command and Control.
+* October 01, 2024, Selected as a National High-level Young Talent (Organization Department of the CPC Central Committee).
+* July 25, 2024, First Prize for Scientific and Technological Progress in Heilongjiang Province.
+* October 25, 2024, Youth Science and Technology Award of Chinese Command and Control Society.
+* July 10, 2023, Second Prize of Invention and Innovation Award of China Invention Association.
+* July 01, 2023, Selected as a high-level talent in Heilongjiang Province.
+* August 20, 2022, Excellent Youth Project of Heilongjiang Provincial Natural Science Foundation (Provincial Excellent Youth).
 * March 04, 2022, I was selected for [the Young Talents Support Project of China Association for Science and Technology](https://www.cast.org.cn/art/2022/2/25/art_43_180211.html)
 * November 02, 2021, I won the Best View Award of the 2nd "Sijiqing" Youth Forum.
 * October 17, 2021, I won the Best Organizer Award at the [IEEE Internaitonal Conference on Unmanned Systems](https://icus2021.c2.org.cn/).
